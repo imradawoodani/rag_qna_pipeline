@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+eluvio_index/
+text_chunks.pkl
+index_stats.pkl
+.env
+raw_pages.jsonl
