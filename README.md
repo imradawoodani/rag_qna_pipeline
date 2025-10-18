@@ -106,7 +106,7 @@ The quality of the final answer depends heavily on the instructions given to the
 **Sanitization:** The server code automatically removes phrases like "Based on the provided context..." if the model mistakenly adds them.
 
 
-## Updated Examples
+## Examples
 
 Below are example interactions that reflect the brand voice and behaviors enforced by the system.
 
