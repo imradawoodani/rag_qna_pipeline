@@ -1,4 +1,4 @@
-# Eluvio Q/A RAG Challenge
+# Context-Aware Q/A Pipeline
 
 ## Overview
 
